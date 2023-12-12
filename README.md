@@ -16,6 +16,8 @@ End the program
 ## Program:
 
 ## Output:
+![01-solution](https://github.com/SwaminathanV23000747/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/148931113/14b40ec5-cab4-4b77-a7ce-94f9ab11c18c)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
